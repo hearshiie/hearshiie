@@ -31,7 +31,7 @@ BS Computer Science Student | Aspiring Developer
 
 ---
 
-### 🔌 Product REST API — JavaScript
+### 🔌 [Product REST API — JavaScript](https://github.com/hearshiie/product-rest-api-javascript.git}
 
 │ JavaScript-based REST API for product data management.  
 │ Demonstrates server-side logic and API endpoint handling.
