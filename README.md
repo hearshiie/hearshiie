@@ -20,15 +20,34 @@ BS Computer Science Student | Aspiring Developer
 
 ## 📂 Featured Projects
 
-### 🛒 Product REST API
-A simple REST API using PHP and MySQL.
+---
 
-### 📱 Flutter App
-A mobile application developed using Flutter and Dart.
+### 🛒 Product REST API — PHP
 
-### 🌐 Personal Portfolio Website
-A responsive portfolio website project.
+│ A single-file RESTful API built with PHP and MySQL, deployed via XAMPP.  
+│ Implements full CRUD operations for product management.
 
-## 🤝 Connect With Me
+`PHP` `MySQL` `REST API` `XAMPP`
 
-- 💌 Email: yourgmail@gmail.com
+---
+
+### 🔌 Product REST API — JavaScript
+
+│ JavaScript-based REST API for product data management.  
+│ Demonstrates server-side logic and API endpoint handling.
+
+`JavaScript` `Backend`
+
+---
+
+### 📊 System Flow Diagram
+
+│ A structured system design project visualizing application architecture.
+
+`CSS` `System Design`
+
+---
+
+## 📬 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hearshiie)
