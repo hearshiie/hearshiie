@@ -50,4 +50,5 @@ BS Computer Science Student | Aspiring Developer
 
 ## 📬 Connect With Me
 
-[![GitHub] @hearshiie
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hearshiie)
+@hearshiie
