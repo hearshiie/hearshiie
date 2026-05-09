@@ -22,7 +22,7 @@ BS Computer Science Student | Aspiring Developer
 
 ---
 
-### 🛒 Product REST API — PHP
+### 🛒 Product REST API — PHP(https://github.com/hearshiie)
 
 │ A single-file RESTful API built with PHP and MySQL, deployed via XAMPP.  
 │ Implements full CRUD operations for product management.
