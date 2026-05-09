@@ -40,11 +40,12 @@ BS Computer Science Student | Aspiring Developer
 
 ---
 
-### 📊 System Flow Diagram
+###  Task Manager Web App
 
-│ A structured system design project visualizing application architecture.
+▎ A simple productivity web application for organizing daily tasks and activities.
+▎ Features task creation, updating, completion tracking, and deletion using interactive JavaScript functionality.
 
-`CSS` `System Design`
+'JavaScript' 'HTML' 'CSS' 'Frontend'
 
 ---
 
