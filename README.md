@@ -40,7 +40,7 @@ BS Computer Science Student | Aspiring Developer
 
 ---
 
-#### 📋 Task Manager Web App
+#### 📋 [Task Manager Web App] (https://github.com/hearshiie/Task-Manager-Web.git)
 
 ▎ A simple productivity web application for organizing daily tasks and activities.
 ▎ Features task creation, updating, completion tracking, and deletion using interactive JavaScript functionality.
