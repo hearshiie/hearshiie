@@ -1,4 +1,4 @@
-## Hi, I'm Heart Shie 👋
+## Hi, I'm Hearty Abugatal👋
 
 BS Computer Science Student | Aspiring Developer
 
