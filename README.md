@@ -21,7 +21,7 @@ BS Computer Science Student | Aspiring Developer
 ## 📂 Featured Projects
 
 ---
- [FIRST PROJECT NAME](https://github.com/hearshiie/REPO-NAME)
+
 ### 🛒 [Product REST API — PHP](https://github.com/hearshiie](https://github.com/hearshiie/project-api.git))
 
 │ A single-file RESTful API built with PHP and MySQL, deployed via XAMPP.  
